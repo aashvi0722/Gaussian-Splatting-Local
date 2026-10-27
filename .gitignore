@@ -16,3 +16,5 @@ __pycache__/
 *.zip
 *.tar.gz
 *.egg-info/
+submodules/diff-gaussian-rasterization/third_party/glm/doc/
+submodules/diff-gaussian-rasterization/third_party/glm/test/
