@@ -8,3 +8,11 @@ tensorboard_3d
 screenshots
 data/
 database.db
+venv/
+__pycache__/
+*.ply
+*.pth
+*.mp4
+*.zip
+*.tar.gz
+*.egg-info/
