@@ -85,7 +85,7 @@ flowchart LR
 <summary><b>1️⃣ Install</b></summary>
 
 ```bash
-git clone --recursive https://github.com/aashvi0722/Gaussian-Splatting-Local.git
+git clone https://github.com/aashvi0722/Gaussian-Splatting-Local.git
 cd Gaussian-Splatting-Local
 
 pip install plyfile tqdm
